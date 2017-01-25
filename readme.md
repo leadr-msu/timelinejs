@@ -19,3 +19,6 @@
 >   * [The British Library World War 1 Site](http://www.bl.uk/world-war-one)
 >   * [LOC World War 1 Propaganda Poster](http://www.loc.gov/pictures/collection/wwipos/)
 >   * [Europeana, 1914-1918](http://europeana1914-1918.eu/en)
+
+-----
+###Return to [LEADR's Resources list](https://github.com/leadr-msu/Resources)
