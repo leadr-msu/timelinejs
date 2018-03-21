@@ -21,4 +21,4 @@
 * [Europeana, 1914-1918](http://europeana1914-1918.eu/en)
 
 -----
-### Return to [LEADR's Resources list](http://leadr-msu.github.io/Resources/)  
+### Return to [LEADR's Resources list](http://leadr-msu.github.io/resources/)  
